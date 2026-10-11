@@ -1,4 +1,7 @@
-
+#:::::::::::::::::::::::::::::::::::::::::::::::::::::::#
+# First important check: How many people answered wor_clima in 2023 AND 2024?
+# March 2026
+# ::::::::::::::::::::::::::::::::::::::::::::::::::::::#
 
 
 # libraries
@@ -7,14 +10,17 @@ library(ggplot2)
 library(tidyr)
 library(flextable)
 
-# SETUP
+# SETUP ----
 setwd("/data/home/kburt/asep_ihs/Katharina/thesis/data")
 # data
 data_23 <- readRDS("asep_std_2023.rds")
 data_24 <- readRDS("asep_std_2024.rds")
 flood_count <- read.csv("03_flood_count_weighted.csv")
 
-##2ß23
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::#
+
+# 2023 ----
 
 ## replace NAs of all factor columns
 data_23[] <- lapply(data_23, function(col) {
@@ -35,7 +41,9 @@ for (i in colnames(data_23)) {
 
 data_23 <- data_23 %>% mutate(across(all_of(numeric_cols), \(x) ifelse(x < 0, NA, x)))
 
-# 2024
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::#
+
+# 2024 ----
 
 ## replace NAs of all factor columns
 data_24[] <- lapply(data_24, function(col) {
@@ -56,19 +64,22 @@ for (i in colnames(data_24)) {
 
 data_24 <- data_24 %>% mutate(across(all_of(numeric_cols), \(x) ifelse(x < 0, NA, x)))
 
-
+# identify those that answered wor_clima in both years
 common_fids <- intersect(data_23$fid, data_24$fid)
 
+# keep only those identified in common_fids in the second year
 data_24_fid <- data_24 %>%
-  filter(fid %in% common_fids)
-
-data_24_fid <- data_24_fid %>%
-  filter(is.na(wor_clima))
+  filter(fid %in% common_fids) %>%
+# remove NAs
+filter(is.na(wor_clima))
 
 # those replied in both waves but didn't give a valid answer in wor_clima
 na_fids <- data_24_fid$fid
 
-## ATTRITION DATA ####
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::#
+
+# ATTRITION DATA ----
 
 attr_data <- data_23 %>%
   filter(!fid %in% common_fids | fid %in% na_fids)
@@ -79,8 +90,11 @@ reten_data <- data_23 %>%
   filter(fid %in% common_fids & !(fid %in% na_fids))
 
 length(reten_data$fid)
-#===================================================#
 
+
+#::::::::::::::::::::::::::::::::::::::::::::::::::::::#
+
+### create a graphic for attrition vs. retention ----
 
 attr <- round(proportions(table(attr_data$wor_clima)),2)
 reten <- round(proportions(table(reten_data$wor_clima)), 2)
