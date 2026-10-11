@@ -1,0 +1,490 @@
+Town,District,Flood_Mention_Count
+St. Pölten,St. Pölten,68
+Wien,Vienna,64
+Wien,Wien,46
+Vienna,Vienna,43
+Tulln,Tulln,41
+Linz,Linz,21
+Penzing,Vienna,18
+Melk,Melk,11
+Liesing,Vienna,10
+Würmla,Tulln,10
+Atzenbrugg,Tulln,10
+Böheimkirchen,St. Pölten-Land,10
+Döbling,Vienna,9
+Steyr,Steyr,9
+Mauerkirchen,Braunau,8
+Hütteldorf,Vienna,8
+Mauthausen,Perg,7
+Hietzing,Vienna,7
+Floridsdorf,Vienna,7
+Korneuburg,Korneuburg,7
+Krems,Krems,7
+Zwettl,Zwettl,7
+Dürnrohr,Tulln,7
+Amstetten,Amstetten,7
+Langenlois,Krems-Land,6
+Sierndorf,Korneuburg,6
+Meidling,Vienna,6
+Judenau,Tulln,6
+Pottenbrunn,St. Pölten,6
+Simmering,Vienna,6
+Perg,Perg,6
+Salzburg,Salzburg,6
+Wels,Wels,6
+14. Bezirk,Vienna,6
+13. Bezirk,Vienna,5
+Krems,Krems an der Donau,5
+Horn,Horn,5
+Graz,Graz,5
+Krems an der Donau,Krems an der Donau,5
+Rust im Tullnerfeld,Tulln,5
+Hadersdorf,Krems-Land,5
+Hollabrunn,Hollabrunn,5
+Mistelbach,Mistelbach,5
+Neulengbach,St. Pölten-Land,5
+Klosterneuburg,Tulln,5
+Gmünd,Gmünd,5
+Salzburg,Salzburg (Stadt),5
+Untergrafendorf,St. Pölten-Land,4
+Hadersdorf am Kamp,Krems-Land,4
+Ottakring,Vienna,4
+Lilienfeld,Lilienfeld,4
+Innere Stadt,Vienna,4
+Zelking-Matzleinsdorf,Melk,4
+Kleinschönbichl,Tulln,4
+Langenzersdorf,Korneuburg,4
+Kirchberg an der Pielach,St. Pölten-Land,4
+Mariazell,Bruck-Mürzzuschlag,4
+Erpersdorf,Tulln,4
+Scheibbs,Scheibbs,4
+Grein,Perg,4
+Markersdorf,St. Pölten-Land,4
+St. Pölten,St. Pölten (Stadt),4
+Grafenwörth,Tulln,4
+Favoriten,Vienna,4
+Purkersdorf,St. Pölten-Land,4
+Margareten,Vienna,4
+Schärding,Schärding,3
+Gars am Kamp,Horn,3
+Mödling,Mödling,3
+Neudörfl,Mattersburg,3
+Herzogenburg,St. Pölten-Land,3
+Moosbierbaum,Tulln,3
+Loosdorf,Melk,3
+Leithaprodersdorf,Eisenstadt-Umgebung,3
+Klagenfurt,Klagenfurt,3
+Kritzendorf,Tulln,3
+Wimpassing,Eisenstadt-Umgebung,3
+Höbersdorf,Korneuburg,3
+Bad Ischl,Gmunden,3
+Waidhofen an der Thaya,Waidhofen an der Thaya,3
+Pressbaum,St. Pölten-Land,3
+Purkersdorf,Sankt Pölten-Land,3
+Bruck an der Leitha,Bruck an der Leitha,3
+Brigittenau,Vienna,3
+Böheimkirchen,St. Pölten,3
+St. Andrä-Wördern,Tulln,3
+St. Valentin,Amstetten,3
+Dürnstein,Krems-Land,3
+Perschling,St. Pölten-Land,3
+Eisenstadt,Eisenstadt,3
+Neufeld,Eisenstadt-Umgebung,3
+Michelhausen,Tulln,3
+Gedersdorf,Krems,3
+Mondsee,Vöcklabruck,3
+Zwentendorf,Tulln,3
+Hornstein,Eisenstadt-Umgebung,3
+Sieghartskirchen,Tulln,3
+Ruprechtshofen,Melk,3
+Aflenz,Bruck-Mürzzuschlag,2
+23. Bezirk,Vienna,2
+Wiener Neustadt,Wiener Neustadt,2
+Wiesfleck,Oberwart,2
+20. Bezirk,Vienna,2
+Kirnberg an der Mank,Melk,2
+Kienstock,Krems-Land,2
+Krems an der Donau,Krems,2
+Kirchberg an der Pielach,Sankt Pölten-Land,2
+Langenlois,Krems,2
+Kammern,Krems-Land,2
+Königswiesen,Freistadt,2
+Ladendorf,Mistelbach,2
+Langenlebarn,Tulln,2
+Zurndorf,Neusiedl am See,2
+Ybbs,Melk,2
+Westbahnhof,Vienna,2
+Vösendorf,Mödling,2
+Wieden,Vienna,2
+Weyer,Steyr-Land,2
+Baden,Baden,2
+Bad Hall,Steyr-Land,2
+Breitenlee,Vienna,2
+Süßenbrunn,Vienna,2
+Bad Aussee,Liezen,2
+Auhof,Vienna,2
+Vöcklabruck,Vöcklabruck,2
+Vitis,Waidhofen an der Thaya,2
+Wolfsgraben,St. Pölten-Land,2
+14. Wiener Gemeindebezirk,Vienna,2
+Petronell-Carnuntum,Bruck an der Leitha,2
+Grafenegg,Krems,2
+Ober-Grafendorf,St. Pölten-Land,2
+Oberwart,Oberwart,2
+Tullnerbach,St. Pölten-Land,2
+Währing,Vienna,2
+Untergrafendorf,St. Pölten,2
+Tullnerfeld,Tulln,2
+Wolfurt,Bregenz,2
+St. Pölten,St. Pölten Land,2
+Thörl,Bruck-Mürzzuschlag,2
+St. Pölten-Pottenbrunn,St. Pölten,2
+Ebensee,Gmunden,2
+Stockerau,Korneuburg,2
+Stotzing,Eisenstadt-Umgebung,2
+Straß im Straßertale,Krems-Land,2
+Donaustadt,Vienna,2
+Eschenau,Lilienfeld,2
+Schwechat,Bruck an der Leitha,2
+Rotheau,Lilienfeld,2
+Paasdorf,Mistelbach,2
+Semmering,Neunkirchen,2
+Enns,Linz-Land,2
+St. Leonhard am Forst,Melk,2
+Gablitz,St. Pölten-Land,2
+Gattendorf,Neusiedl am See,2
+Nickelsdorf,Neusiedl am See,2
+Pixendorf,Tulln,2
+Pichl bei Wels,Wels-Land,2
+Pischelsdorf,Tulln,2
+Großmittel,Wiener Neustadt-Land,2
+Gassen,Melk,2
+Mauerkirchen,Braunau am Inn,2
+Matzleinsdorf,Melk,2
+Goldwörth,Urfahr-Umgebung,2
+Haringsee,Gänserndorf,2
+Neubau,Vienna,2
+Mörbisch,Eisenstadt-Umgebung,2
+Innsbruck,Innsbruck,2
+Innenstadt,Vienna,2
+Helpfau-Uttendorf,Braunau,2
+Lofer,Zell am See,2
+Markersdorf,Sankt Pölten-Land,2
+Markersdorf,St. Pölten,2
+Hernals,Vienna,2
+Laxenburg,Mödling,2
+Grünau,Gmunden,2
+Himberg,Bruck an der Leitha,2
+Aigen-Schlägl,Rohrbach,1
+Alland,Baden,1
+Alsergrund,Vienna,1
+Altenberg bei Linz,Urfahr-Umgebung,1
+Altenburg,Horn,1
+Altenfelden,Rohrbach,1
+Altenmarkt/Triesting,Baden,1
+Altenwörth,Tulln,1
+Altmünster,Gmunden,1
+Braunau,Braunau,1
+Blumau,Baden,1
+Tattendorf,Baden,1
+Südstadt,Mödling,1
+Stössing,St. Pölten-Land,1
+Vomp-Hinterriß,Schwaz,1
+Voitsberg,Voitsberg,1
+Vestenötting,Waidhofen an der Thaya,1
+Vestenpoppen,Waidhofen an der Thaya,1
+Unterschützen,Oberwart,1
+Unterlaussa,Steyr-Land,1
+Unter Purkersdorf,St. Pölten-Land,1
+Unken,Zell am See,1
+Türnitz,Lilienfeld,1
+Weißenkirchen,Krems-Land,1
+Weißbach bei Lofer,Zell am See,1
+Weiz,Weiz,1
+Weitra,Gmünd,1
+Weissenbach/Triesting,Baden,1
+Weinzierl am Walde,Krems-Land,1
+Weidling,Tulln,1
+Wastl am Wald,Scheibbs,1
+Wartberg an der Krems,Kirchdorf,1
+Wallsee,Amstetten,1
+Wallern an der Trattnach,Grieskirchen,1
+Baumgartenberg,Perg,1
+Bad Deutsch-Altenburg,Bruck an der Leitha,1
+Atzenbrugg-Rust,Tulln,1
+Attersee,Vöcklabruck,1
+Aspern Nord,Vienna,1
+Aspern,Vienna,1
+Waidhofen/Thaya,Waidhofen an der Thaya,1
+Kirchberg an der Pielach,St. Pölten,1
+Kierling,Tulln,1
+Kettlasbrunn,Mistelbach,1
+Katzelsdorf am Wienerwald,Tulln,1
+Kasten bei Böheimkirchen,St. Pölten-Land,1
+Kapelln,St. Pölten-Land,1
+Krumau,Krems,1
+Krieau,Vienna,1
+Krenglbach,Wels-Land,1
+Krems,Krems (Statutarstadt),1
+Krems,Krems (Stadt),1
+Kramsach,Kufstein,1
+Kleinreifling,Steyr-Land,1
+Klein Pöchlarn,Melk,1
+Laussa,Steyr-Land,1
+Lanzendorf,Mistelbach,1
+Langmannersdorf,St. Pölten,1
+Landstraße,Vienna,1
+Lackenhof am Ötscher,Scheibbs,1
+Laa an der Thaya,Mistelbach,1
+Heinrichsreith,Horn,1
+Haunoldstein,St. Pölten-Land,1
+Haunoldstein,Sankt Pölten-Land,1
+Hartberg,Hartberg-Fürstenfeld,1
+Josefstadt,Vienna,1
+Jenbach,Schwaz,1
+Jedenspeigen,Gänserndorf,1
+Inzersdorf,Vienna,1
+Hüttendorf,Mistelbach,1
+Hörsching,Linz-Land,1
+Königstetten,Tulln,1
+Kundl,Kufstein,1
+Kufstein,Kufstein,1
+Krumau am Kamp,Krems-Land,1
+Lochen am See,Braunau am Inn,1
+Lochen am See,Braunau,1
+Lochen,Braunau am Inn,1
+Lobau,Vienna,1
+Litschau,Gmünd,1
+Limberg,Hollabrunn,1
+Lerchenfeld,Krems (Stadt),1
+Leopoldstadt,Vienna,1
+Göllersdorf,Hollabrunn,1
+Göfis,Feldkirch,1
+Grünburg,Steyr-Land,1
+Hollenbach,Waidhofen an der Thaya,1
+Hohenberg,Lilienfeld,1
+Hohenau,Gänserndorf,1
+Hofstetten,St. Pölten-Land,1
+Hofkirchen im Traunkreis,Linz-Land,1
+Leibnitz,Leibnitz,1
+Leiben,Melk,1
+Lehenrotte,Lilienfeld,1
+Maria Saal,Klagenfurt-Land,1
+Marbach,Melk,1
+Mannersdorf,Melk,1
+Malta,Spittal an der Drau,1
+Maissau,Hollabrunn,1
+Lunz am See,Scheibbs,1
+Losenstein,Steyr-Land,1
+Loich,St. Pölten-Land,1
+Lockenhaus,Oberpullendorf,1
+Mayrhofen,Schwaz,1
+Mautern,Krems-Land,1
+Mauerbach,St. Pölten-Land,1
+Mauerbach,Sankt Pölten-Land,1
+Matzlesschlag,Waidhofen an der Thaya,1
+Marktl,Lilienfeld,1
+Gmunden,Gmunden,1
+Harmannsdorf,Korneuburg,1
+Handelskai,Vienna,1
+Hallstatt,Gmunden,1
+Hall bei Admont,Liezen,1
+Hainburg,Bruck an der Leitha,1
+Hadersfeld,Tulln,1
+Hadersdorf-Kammern,Krems-Land,1
+Hadersdorf-Kammern,Krems,1
+Güssing,Güssing,1
+Markt Allhau,Oberwart,1
+Markl,Waidhofen an der Thaya,1
+Markersdorf-Haindorf,St. Pölten-Land,1
+Markersdorf an der Pielach,St. Pölten,1
+Neulengbach,St. Pölten,1
+Neudau,Hartberg-Fürstenfeld,1
+Mösel,Melk,1
+Mittelkilling,St. Pölten-Land,1
+Freiland,Lilienfeld,1
+Frauendorf,Hollabrunn,1
+Franz-Josefs-Bahnhof,Vienna,1
+Frankenfels,St. Pölten,1
+Grub,Mödling,1
+Großraming,Steyr-Land,1
+Groß Sierning,St. Pölten-Land,1
+Groß Sierning,St. Pölten,1
+Greifenstein,Tulln,1
+Grafenwörth,Krems,1
+Golling,Hallein,1
+Mischendorf,Oberwart,1
+Michelbach,St. Pölten-Land,1
+Offenhausen,Wels-Land,1
+Oberwang,Vöcklabruck,1
+Obertauern,St. Johann im Pongau,1
+Oberschützen,Oberwart,1
+Oberkilling,St. Pölten-Land,1
+Ober-Grafendorf,Sankt Pölten-Land,1
+Nußbach,Kirchdorf,1
+Niederschleinz,Hollabrunn,1
+Neuzeug,Steyr-Land,1
+Neustift,Rohrbach,1
+Neusiedl am See,Neusiedl am See,1
+Neusiedl,Tulln,1
+Neunkirchen,Neunkirchen,1
+Potzneusiedl,Neusiedl am See,1
+Pottenstein,Baden,1
+Platt,Hollabrunn,1
+Pinkafeld,Oberwart,1
+Engelhartszell,Schärding,1
+Einsiedl,Tulln,1
+Eibesthal,Mistelbach,1
+Gars/Kamp,Horn,1
+Gars,Horn,1
+Gablitz,Sankt Pölten-Land,1
+Fürstenfeld,Hartberg-Fürstenfeld,1
+Frättingsdorf,Mistelbach,1
+Freudenau,Vienna,1
+Freistadt,Freistadt,1
+Freinberg,Schärding,1
+Pama,Neusiedl am See,1
+Olgersdorf,Mistelbach,1
+Rainfeld,Lilienfeld,1
+Radfeld,Kufstein,1
+Rabenstein an der Pielach,Sankt Pölten-Land,1
+Rabenstein,St. Pölten-Land,1
+Raabs an der Thaya,Waidhofen an der Thaya,1
+Raabs,Waidhofen an der Thaya,1
+Pölla,Zwettl,1
+Pyhra,St. Pölten-Land,1
+Prinzersdorf,St. Pölten-Land,1
+Prinzersdorf,St. Pölten,1
+Pressbaum,Sankt Pölten-Land,1
+Pregarten,Freistadt,1
+Pramerdorf,Schärding,1
+Rottenegg,Urfahr-Umgebung,1
+Rotenturm an der Pinka,Oberwart,1
+Rossatzbach,Krems-Land,1
+Rosenburg-Mold,Horn,1
+Rosegg,Villach-Land,1
+Rosbruck,Zwettl,1
+Ried im Innkreis,Ried im Innkreis,1
+Retz,Hollabrunn,1
+Rekawinkel,St. Pölten-Land,1
+Rekawinkel,Sankt Pölten-Land,1
+Rehberg,Krems (Stadt),1
+Rattenberg,Kufstein,1
+Rastenfeld,Krems,1
+Raschala,Hollabrunn,1
+Rammersdorf,St. Pölten,1
+Schweinsegg-Zehetner,Steyr-Land,1
+Schwaz,Schwaz,1
+Schwarzenbach,St. Pölten-Land,1
+Schreibersdorf,Oberwart,1
+Schletz,Mistelbach,1
+Saxen,Perg,1
+Sankt Pölten,St. Pölten (Stadt),1
+Salzburg,Salzburg-Stadt,1
+Dimbach,Perg,1
+Deutsch Jahrndorf,Neusiedl am See,1
+Bösendürnbach,Hollabrunn,1
+Frankenfels,Sankt Pölten-Land,1
+Fischamend,Bruck an der Leitha,1
+Feldkirchen an der Donau,Urfahr-Umgebung,1
+Feldkirch,Feldkirch,1
+Feld am See,Villach-Land,1
+Feistritz an der Drau,Villach-Land,1
+Euratsfeld,Amstetten,1
+Rust,Tulln,1
+Rudolfsheim-Fünfhaus,Vienna,1
+Sonnberg,Urfahr-Umgebung,1
+Sonnberg,Hollabrunn,1
+Sitzendorf,Hollabrunn,1
+Sillian,Lienz,1
+Sierning,Steyr-Land,1
+Senftenberg,Krems-Land,1
+Seekirchen am Wallersee,Flachgau,1
+Seekirchen,Salzburg-Umgebung,1
+Seekirchen,Flachgau,1
+Schönbrunn,Vienna,1
+Schönberg,Krems,1
+St. Oswald,Rohrbach,1
+St. Nikola,Perg,1
+St. Martin bei Lofer,Zell am See,1
+St. Martin,Gmünd,1
+St. Lorenz,Vöcklabruck,1
+St. Leonhard bei Freistadt,Freistadt,1
+St. Georgen/Ybbsfelde,Amstetten,1
+St. Florian,Linz-Land,1
+St. Christophen,St. Pölten-Land,1
+St. Bernhard-Frauenhofen,Horn,1
+St. Aegyd,Lilienfeld,1
+Spitz,Krems-Land,1
+Spielberg-Pielach,Melk,1
+Spielberg,Melk,1
+Stiefern,Krems,1
+Stein,Krems (Stadt),1
+Stein,Krems,1
+Stegersbach,Güssing,1
+Stadlau,Vienna,1
+St. Veit an der Gölsen,Lilienfeld,1
+St. Veit,Lilienfeld,1
+Bludenz,Bludenz,1
+Blindenmarkt,Amstetten,1
+Berndorf,Baden,1
+Behamberg,Amstetten,1
+Eibelsau,St. Pölten-Land,1
+Edt bei Lambach,Wels-Land,1
+Edling,Völkermarkt,1
+Ebreichsdorf,Baden,1
+Ebendorf,Mistelbach,1
+Ebelsberg,Linz,1
+Drummling,Oberwart,1
+Dornach,Perg,1
+Tulln an der Donau,Tulln,1
+Tresdorf,Korneuburg,1
+Trausdorf,Eisenstadt-Umgebung,1
+Trasdorf,Tulln,1
+Traismauer,St. Pölten-Land,1
+Traiskirchen,Baden,1
+Thüringen,Bludenz,1
+Thalheim,St. Pölten,1
+Ternitz,Neunkirchen,1
+Teesdorf,Baden,1
+Aschach an der Steyr,Steyr-Land,1
+Angern,Gänserndorf,1
+Angath,Kufstein,1
+Andau,Neusiedl am See,1
+Böheimkirchen,Sankt Pölten-Land,1
+Burgau,Hartberg-Fürstenfeld,1
+Bruckneudorf,Neusiedl am See,1
+Brixlegg,Kufstein,1
+Bregenz,Bregenz,1
+Waidhofen an der Thaya-Land,Waidhofen an der Thaya,1
+Achleiten,Schärding,1
+Windigsteig,Waidhofen an der Thaya,1
+Wilhelmsburg,St. Pölten-Land,1
+Wilhelmsburg,Sankt Pölten-Land,1
+Wildungsmauer,Bruck an der Leitha,1
+Wieselburg,Scheibbs,1
+Wienerwald,Mödling,1
+Wiener City,Vienna,1
+Alberndorf in der Riedmark,Urfahr-Umgebung,1
+Alberndorf,Urfahr-Umgebung,1
+Albern,Vienna,1
+Zöbing,Krems-Land,1
+Ach,Braunau am Inn,1
+Wohlfahrts,Waidhofen an der Thaya,1
+Wörgl,Kufstein,1
+Zelking,Melk,1
+Zellerndorf,Hollabrunn,1
+Zwölfaxing,Bruck an der Leitha,1
+Zöbing,Krems,1
+Absdorf-Hippersdorf,Tulln,1
+12. Bezirk,Vienna,1
+11. Bezirk,Vienna,1
+10. Bezirk,Vienna,1
+Wolfsgraben,Sankt Pölten-Land,1
+Hörersdorf,Mistelbach,1
+Höflein,Tulln,1
+Klausen-Leopoldsdorf,Baden,1
+Klagenfurt,Klagenfurt am Wörthersee,1
+Kirchstetten,St. Pölten-Land,1
+Kirchdorf an der Krems,Kirchdorf,1
+Kirchdorf,Kirchdorf an der Krems,1

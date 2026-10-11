@@ -1,0 +1,92 @@
+Rust
+Eisenstadt-Umgebung
+Güssing
+Jennersdorf
+Mattersburg
+Neusiedl am See
+Oberpullendorf
+Oberwart
+Villach
+Hermagor
+Klagenfurt-Land
+St. Veit an der Glan
+Spittal an der Drau
+Villach-Land
+Völkermarkt
+Wolfsberg
+Feldkirchen
+St. Pölten
+Waidhofen an der Ybbs
+Wiener Neustadt
+Amstetten
+Baden
+Bruck an der Leitha
+Gänserndorf
+Gmünd
+Hollabrunn
+Horn
+Korneuburg
+Krems
+Lilienfeld
+Melk
+Mistelbach
+Mödling
+Neunkirchen
+St. Pölten
+Scheibbs
+Tulln
+Waidhofen an der Thaya
+Wiener Neustadt
+Zwettl
+Steyr
+Wels
+Braunau
+Eferding
+Freistadt
+Gmunden
+Grieskirchen
+Kirchdorf
+Linz-Land
+Perg
+Ried
+Rohrbach
+Schärding
+Steyr-Land
+Urfahr-Umgebung
+Vöcklabruck
+Wels-Land
+Hallein
+Salzburg-Umgebung
+St. Johann im Pongau
+Tamsweg
+Zell am See
+Deutschlandsberg
+Graz-Umgebung
+Leibnitz
+Leoben
+Liezen
+Murau
+Voitsberg
+Weiz
+Murtal
+Bruck-Mürzzuschlag
+Hartberg-Fürstenfeld
+Südoststeiermark
+Imst
+Innsbruck-Land
+Kitzbühel
+Kufstein
+Landeck
+Lienz
+Reutte
+Schwaz
+Bregenz
+Dornbirn
+Feldkirch
+Eisenstadt
+Klagenfurt am Wörthersee
+Linz
+Salzburg
+Graz
+Innsbruck
+Wien

@@ -1,0 +1,291 @@
+,Town,District,Flood_Mention_Count,town_kz,size,flood_count_weighted,flood_count_weighted_rec
+0,Absdorf,Tulln,1,32101,2469,0.405,2.0125
+1,Ach,Braunau,1,40414,3405,0.2937,1.7137
+2,Achleiten,Schärding,1,41009,3093,0.3233,1.7981
+3,Aflenz,Bruck-Mürzzuschlag,1,61045,6525,0.1533,1.238
+4,Aigen-Schlägl,Rohrbach,1,41343,3267,0.3061,1.7495
+5,Alberndorf in der Riedmark,Urfahr-Umgebung,2,41601,4223,0.4736,3.0777
+6,Alland,Baden,1,30601,2680,0.3731,1.9317
+7,Alsergrund,Wien,4,90901,41631,0.0961,1.9604
+8,Altenberg bei Linz,Urfahr-Umgebung,1,41602,4741,0.2109,1.4523
+9,Altenburg,Horn,1,31101,826,1.2107,3.4794
+10,Altenmarkt an der Triesting,Baden,1,30602,2176,0.4596,2.1437
+11,Altenmarkt bei Sankt Gallen,Steyr-Land,1,61205,804,1.2438,3.5267
+12,Altenwörth,Tulln,1,32114,3830,0.2611,1.6158
+13,Altmünster,Gmunden,1,40701,10076,0.0992,0.9962
+14,Amstetten,Amstetten,3,30502,23899,0.1255,1.9406
+15,Angern an der March,Gänserndorf,1,30803,3511,0.2848,1.6877
+16,Asparn,Tulln,1,32119,2572,0.3888,1.9718
+17,Attersee,Vöcklabruck,1,41702,1646,0.6075,2.4648
+18,Atzenbrugg,Tulln,11,32104,3465,3.1746,18.6871
+19,Bad Aussee,Liezen,1,61207,5002,0.1999,1.4139
+20,Bad Ischl,Gmunden,3,40703,14170,0.2117,2.5202
+21,Baumgartenberg,Perg,1,41103,1844,0.5423,2.3287
+22,Blumau-Neurißhof,Baden,1,30646,1938,0.516,2.2716
+23,Brigittenau,Wien,4,92001,86930,0.046,1.3567
+24,Bruckneudorf,Neusiedl am See,1,10703,3069,0.3258,1.8051
+25,Böheimkirchen,St. Pölten-Land,15,31903,5243,2.861,20.7158
+26,Bösendürnbach,Hollabrunn,1,31021,1339,0.7468,2.7328
+27,Deutsch Jahrndorf,Neusiedl am See,1,10704,652,1.5337,3.9163
+28,Dietersdorf,Tulln,1,32131,7867,0.1271,1.1274
+29,Dimbach,Perg,1,41104,1009,0.9911,3.1481
+30,Donaustadt,Wien,7,92201,220794,0.0317,1.4897
+31,Dornach,Perg,1,61051,2810,0.3559,1.8865
+32,Drumling,Oberwart,1,10923,2012,0.497,2.2294
+33,Döbling,Wien,9,91901,75400,0.1194,3.2776
+34,Dürnrohr,Tulln,5,20115,1000,5.0,15.8114
+35,Dürnstein,Krems-Land,3,31304,807,3.7175,10.5605
+36,Ebendorf,Mistelbach,1,31633,12036,0.0831,0.9115
+37,Ebensee,Gmunden,2,40704,7456,0.2682,2.3162
+38,Ebreichsdorf,Baden,1,30607,11978,0.0835,0.9137
+39,Edt bei Lambach,Wels-Land,1,41806,2356,0.4244,2.0602
+40,Eibelsau,St. Pölten-Land,1,31911,1256,0.7962,2.8217
+41,Einsiedl,Tulln,1,32131,7867,0.1271,1.1274
+42,Eisenstadt,Eisenstadt (Stadt),2,10101,16037,0.1247,1.5793
+43,Engelhartszell,Schärding,1,41407,921,1.0858,3.2951
+44,Enns,Linz-Land,1,41005,12265,0.0815,0.903
+45,Erpersdorf,Tulln,4,32141,4195,0.9535,6.1758
+46,Eschenau,Lilienfeld,1,31402,1292,0.774,2.7821
+47,Favoriten,Wien,5,91001,220324,0.0227,1.0652
+48,Fischamend,Bruck an der Leitha,1,30730,5708,0.1752,1.3236
+49,Floridsdorf,Wien,4,92101,186233,0.0215,0.9269
+50,Frankenfels,St. Pölten-Land,2,31906,1894,1.056,4.5956
+51,Frauendorf,Hollabrunn,1,31043,2203,0.4539,2.1306
+52,Freinberg,Schärding,1,41410,1515,0.6601,2.5692
+53,Gablitz,St. Pölten-Land,2,31949,5105,0.3918,2.7992
+54,Gars am Kamp,Horn,5,31106,3475,1.4388,8.4819
+55,Gattendorf,Neusiedl am See,2,10706,1515,1.3201,5.1383
+56,Gedersdorf,Krems-Land,3,31310,2165,1.3857,6.4475
+57,Gmunden,Gmunden,1,40705,13254,0.0754,0.8686
+58,Gmünd,Gmünd,3,30908,5146,0.583,4.182
+59,Goldwörth,Urfahr-Umgebung,1,41608,761,1.3141,3.625
+60,Grafenegg,Krems-Land,1,31308,3315,0.3017,1.7368
+61,Grafenwörth,Krems-Land,5,32107,3300,1.5152,8.7039
+62,Greifenstein,Tulln,1,32142,7953,0.1257,1.1213
+63,Grein,Perg,4,41105,2912,1.3736,7.4125
+64,Groß Sierning,St. Pölten-Land,2,31911,1256,1.5924,5.6433
+65,Grub,Mödling,1,31726,2913,0.3433,1.8528
+66,Grünau im Almtal,Gmunden,2,40707,2036,0.9823,4.4324
+67,Grünburg,Steyr-Land,1,40902,3840,0.2604,1.6137
+68,Göblasbruck,Lilienfeld,2,31947,6489,0.3082,2.4828
+69,Göllersdorf,Hollabrunn,1,31008,3212,0.3113,1.7645
+70,Hadersdorf,Krems-Land,11,31315,1995,5.5138,24.6276
+71,Hadersfeld,Tulln,1,32142,7953,0.1257,1.1213
+72,Hainburg,Bruck an der Leitha,1,30710,7033,0.1422,1.1924
+73,Hallstatt,Gmunden,1,40709,741,1.3495,3.6736
+74,Haringsee,Gänserndorf,1,30825,1162,0.8606,2.9336
+75,Harmannsdorf,Korneuburg,1,31207,4097,0.2441,1.5623
+76,Haunoldstein,St. Pölten-Land,2,31911,1256,1.5924,5.6433
+77,Heinrichsreith,Horn,1,31104,1178,0.8489,2.9136
+78,Helpfau-Uttendorf,Braunau,2,40413,3872,0.5165,3.2141
+79,Hernals,Wien,2,91701,56671,0.0353,0.8401
+80,Herzogenburg,St. Pölten-Land,2,31912,7963,0.2512,2.2413
+81,Hietzing,Wien,18,91301,55505,0.3243,7.6402
+82,Himberg,Bruck an der Leitha,2,30732,8192,0.2441,2.2097
+83,Hofkirchen im Traunkreis,Linz-Land,1,41008,2082,0.4803,2.1916
+84,Hofstetten,St. Pölten-Land,1,31909,2712,0.3687,1.9202
+85,Hohenau an der March,Gänserndorf,1,30827,2793,0.358,1.8922
+86,Hollabrunn,Hollabrunn,4,31022,12379,0.3231,3.5952
+87,Hollenbach,Waidhofen an der Thaya,1,32220,5206,0.1921,1.386
+88,Horn,Horn,1,31109,6505,0.1537,1.2399
+89,Hornstein,Eisenstadt-Umgebung,3,10304,3312,0.9058,5.2129
+90,Höbersdorf,Korneuburg,2,31226,3954,0.5058,3.1806
+91,Höflein,Tulln,1,32144,28115,0.0356,0.5964
+92,Innere Stadt,Wien,9,90101,16538,0.5442,6.9984
+93,Judenau,Tulln,6,32112,2386,2.5147,12.2833
+94,Kammern,Krems-Land,2,31315,1995,1.0025,4.4777
+95,Kapelln,St. Pölten-Land,1,31915,1342,0.7452,2.7298
+96,Katzelsdorf am Wienerwald,Tulln,1,32313,3196,0.3129,1.7689
+97,Kierling,Tulln,1,32144,28115,0.0356,0.5964
+98,Kirchberg an der Pielach,St. Pölten-Land,6,31918,3142,1.9096,10.7041
+99,Kirchdorf an der Krems,Kirchdorf,1,40905,4970,0.2012,1.4185
+100,Kirnberg an der Mank,Melk,2,31515,1109,1.8034,6.0057
+101,Klausen-Leopoldsdorf,Baden,1,30616,1680,0.5952,2.4398
+102,Klein Pöchlarn,Melk,1,31516,1059,0.9443,3.0729
+103,Kleinreifling,Steyr-Land,1,41522,4028,0.2483,1.5756
+104,Kleinschönbichl,Tulln,4,32141,4195,0.9535,6.1758
+105,Klosterneuburg,Tulln,5,32144,28115,0.1778,2.982
+106,Korneuburg,Korneuburg,4,31213,13719,0.2916,3.4151
+107,Krems an der Donau,Krems (Stadt),13,30101,25363,0.5126,8.1629
+108,Krenglbach,Wels-Land,1,41810,3254,0.3073,1.753
+109,Kritzendorf,Tulln,2,32144,28115,0.0711,1.1928
+110,Krumau am Kamp,Krems-Land,2,31321,732,2.7322,7.3922
+111,Königstetten,Tulln,1,32116,2520,0.3968,1.992
+112,Königswiesen,Freistadt,2,40608,3070,0.6515,3.6096
+113,Laa an der Thaya,Mistelbach,1,31629,6309,0.1585,1.259
+114,Lackenhof,Scheibbs,1,32001,2905,0.3442,1.8554
+115,Ladendorf,Mistelbach,2,31630,2348,0.8518,4.1274
+116,Landstraße,Wien,3,90301,98398,0.0305,0.9564
+117,Langenlebarn,Tulln,1,32135,16949,0.059,0.7681
+118,Langenlois,Krems-Land,7,31322,7490,0.9346,8.0883
+119,Langenrohr,Tulln,1,32119,2572,0.3888,1.9718
+120,Langenzersdorf,Korneuburg,4,31214,8153,0.4906,4.43
+121,Langmannersdorf,St. Pölten-Land,1,31946,1552,0.6443,2.5384
+122,Lanzendorf,Mistelbach,1,31633,12036,0.0831,0.9115
+123,Laxenburg,Mödling,1,31715,3060,0.3268,1.8078
+124,Lehenrotte,Lilienfeld,1,31414,1879,0.5322,2.3069
+125,Leiben,Melk,1,31519,1343,0.7446,2.7287
+126,Leithaprodersdorf,Eisenstadt-Umgebung,3,10306,1242,2.4155,8.5126
+127,Leopoldstadt,Wien,4,90201,110100,0.0363,1.2055
+128,Liesing,Wien,9,92301,121303,0.0742,2.5841
+129,Lilienfeld,Lilienfeld,3,31407,2605,1.1516,5.8778
+130,Limberg,Hollabrunn,1,31026,1958,0.5107,2.2599
+131,Linz,Linz (Stadt),11,40101,211944,0.0519,2.3894
+132,Lochen am See,Braunau,2,40419,2976,0.672,3.6662
+133,Lofer,Zell am See,1,50610,2096,0.4771,2.1843
+134,Loich,St. Pölten-Land,1,31920,551,1.8149,4.2601
+135,Loosdorf,Melk,3,31520,3890,0.7712,4.81
+136,Maissau,Hollabrunn,1,31026,1958,0.5107,2.2599
+137,Marbach,Melk,1,31522,1699,0.5886,2.4261
+138,Margareten,Wien,13,90501,54400,0.239,5.5737
+139,Mariahilf,Wien,4,90601,31386,0.1274,2.2578
+140,Mariazell,Bruck-Mürzzuschlag,3,62142,3623,0.828,4.9841
+141,Markersdorf an der Pielach,St. Pölten-Land,3,31922,2058,1.4577,6.613
+142,Markl,Waidhofen an der Thaya,1,32223,948,1.0549,3.2478
+143,Markt Allhau,Oberwart,1,10912,1943,0.5147,2.2686
+144,Marktl,Lilienfeld,1,31407,2605,0.3839,1.9593
+145,Matzleinsdorf,Melk,1,31550,1200,0.8333,2.8868
+146,Matzlesschlag,Waidhofen an der Thaya,1,32223,948,1.0549,3.2478
+147,Mauerbach,St. Pölten-Land,1,31950,3610,0.277,1.6644
+148,Mauerkirchen,Braunau,9,40422,2727,3.3003,17.2345
+149,Mautern an der Donau,Krems-Land,1,31327,3413,0.293,1.7117
+150,Mauthausen,Perg,7,41111,4922,1.4222,9.9776
+151,Meidling,Wien,6,91201,101714,0.059,1.8813
+152,Melk,Melk,6,31524,5674,1.0575,7.9654
+153,Michelhausen,Tulln,5,32120,4234,1.1809,7.6841
+154,Mischendorf,Oberwart,1,10914,1466,0.6821,2.6118
+155,Mistelbach,Mistelbach,3,31633,12036,0.2493,2.7345
+156,Mondsee,Vöcklabruck,2,41712,1265,1.581,5.6232
+157,Moosbierbaum,Tulln,2,32104,3465,0.5772,3.3976
+158,Mödling,Mödling,2,31717,20580,0.0972,1.3941
+159,Mörbisch,Eisenstadt-Umgebung,2,10307,2213,0.9038,4.2515
+160,Neubau,Wien,1,90701,31513,0.0317,0.5633
+161,Neudörfl,Mattersburg,3,10607,4971,0.6035,4.255
+162,Neufeld,Eisenstadt-Umgebung,3,10309,3621,0.8285,4.9855
+163,Neulengbach,St. Pölten-Land,5,31926,8661,0.5773,5.3726
+164,Neusiedl,Tulln,1,32119,2572,0.3888,1.9718
+165,Neustift,Rohrbach,1,41329,1489,0.6716,2.5915
+166,Nickelsdorf,Neusiedl am See,2,10714,1846,1.0834,4.6549
+167,Niederschleinz,Hollabrunn,1,31043,2203,0.4539,2.1306
+168,Nußbach,Kirchdorf,1,40910,2305,0.4338,2.0829
+169,Ober-Grafendorf,St. Pölten-Land,3,31929,4922,0.6095,4.2761
+170,Oberwart,Oberwart,1,10917,8019,0.1247,1.1167
+171,Offenhausen,Wels-Land,1,41814,1710,0.5848,2.4183
+172,Ottakring,Wien,3,91601,102770,0.0292,0.9358
+173,Paasdorf,Mistelbach,2,31633,12036,0.1662,1.823
+174,Pama,Neusiedl am See,1,10715,1275,0.7843,2.8006
+175,Penzing,Wien,37,91401,98161,0.3769,11.8095
+176,Perg,Perg,2,41116,9459,0.2114,2.0564
+177,Perschling,St. Pölten-Land,2,31946,1552,1.2887,5.0767
+178,Petronell-Carnuntum,Bruck an der Leitha,2,30718,1272,1.5723,5.6077
+179,Peygarten,Krems-Land,1,31336,1581,0.6325,2.515
+180,Peygarten,Zwettl,1,31336,1581,0.6325,2.515
+181,Pichl bei Wels,Wels-Land,2,41816,2935,0.6814,3.6917
+182,Pinkafeld,Oberwart,1,10918,5951,0.168,1.2963
+183,Pischelsdorf,Tulln,1,32141,4195,0.2384,1.544
+184,Pixendorf,Tulln,2,32120,4234,0.4724,3.0737
+185,Pottenstein,Baden,1,30627,2953,0.3386,1.8402
+186,Potzneusiedl,Neusiedl am See,1,10726,671,1.4903,3.8605
+187,Pregarten,Freistadt,1,40614,5567,0.1796,1.3403
+188,Pressbaum,St. Pölten-Land,4,31951,7934,0.5042,4.4907
+189,Prinzersdorf,St. Pölten-Land,2,31932,1707,1.1716,4.8408
+190,Purkersdorf,St. Pölten-Land,8,31952,9959,0.8033,8.0165
+191,Pölla,Zwettl,1,32520,898,1.1136,3.337
+192,Raabs an der Thaya,Waidhofen an der Thaya,2,32216,2634,0.7593,3.8969
+193,Rabenstein an der Pielach,St. Pölten-Land,2,31935,2471,0.8094,4.0234
+194,Rainfeld,Lilienfeld,1,31412,3840,0.2604,1.6137
+195,Rammersdorf,St. Pölten-Land,1,31938,1038,0.9634,3.1039
+196,Rastenfeld,Krems-Land,1,31336,1581,0.6325,2.515
+197,Retz,Hollabrunn,1,31037,4253,0.2351,1.5334
+198,Rosenburg-Mold,Horn,1,31121,857,1.1669,3.4159
+199,Rossatz-Arnsdorf,Krems-Land,2,31338,1040,1.9231,6.2017
+200,Rotenturm an der Pinka,Oberwart,1,10921,1425,0.7018,2.6491
+201,Rudolfsheim-Fünfhaus,Wien,4,91501,76381,0.0524,1.4473
+202,Ruprechtshofen,Melk,3,31537,2342,1.281,6.1991
+203,Rust im Tullnerfeld,Tulln,5,32120,4234,1.1809,7.6841
+204,Saxen,Perg,1,41123,1711,0.5845,2.4175
+205,Scharndorf,Bruck an der Leitha,1,30722,1232,0.8117,2.849
+206,Scheibbs,Scheibbs,2,32013,4210,0.4751,3.0824
+207,Schreibersdorf,Oberwart,1,10927,1207,0.8285,2.8784
+208,Schwarzenbach,St. Pölten-Land,1,31939,348,2.8736,5.3606
+209,Schwechat,Bruck an der Leitha,2,30740,21227,0.0942,1.3727
+210,Schärding,Schärding,3,41422,5414,0.5541,4.0772
+211,Schönberg,Krems-Land,1,31355,1857,0.5385,2.3206
+212,Seekirchen am Wallersee,Salzburg-Umgebung,3,50339,11570,0.2593,2.789
+213,Senftenberg,Krems-Land,1,31343,1896,0.5274,2.2966
+214,Sieghartskirchen,Tulln,4,32131,7867,0.5085,4.5098
+215,Sierndorf,Korneuburg,5,31226,3954,1.2645,7.9515
+216,Simmering,Wien,6,91101,110559,0.0543,1.8045
+217,Sitzendorf,Hollabrunn,1,31043,2203,0.4539,2.1306
+218,Sonnberg,Urfahr-Umgebung,1,41623,1124,0.8897,2.9827
+219,Spielberg,Melk,1,31524,5674,0.1762,1.3276
+220,Spitz,Krems-Land,1,31344,1545,0.6472,2.5441
+221,St. Andrä-Wördern,Tulln,3,32142,7953,0.3772,3.364
+222,St. Christophen,St. Pölten-Land,1,31926,8661,0.1155,1.0745
+223,St. Florian,Linz-Land,1,41013,6318,0.1583,1.2581
+224,St. Florian am Inn,Schärding,1,41418,3216,0.3109,1.7634
+225,St. Georgen am Ybbsfelde,Amstetten,1,30527,2838,0.3524,1.8771
+226,St. Gotthard im Mühlkreis,Urfahr-Umgebung,1,41621,1325,0.7547,2.7472
+227,St. Leonhard am Forst,Melk,2,31539,3053,0.6551,3.6197
+228,St. Leonhard bei Freistadt,Freistadt,1,40617,1339,0.7468,2.7328
+229,St. Lorenz,Vöcklabruck,1,41735,2652,0.3771,1.9418
+230,St. Martin,Gmünd,1,30932,1071,0.9337,3.0557
+231,St. Martin bei Lofer,Zell am See,1,50620,1217,0.8217,2.8665
+232,St. Nikola an der Donau,Perg,1,41121,801,1.2484,3.5333
+233,St. Oswald,Rohrbach,1,41333,510,1.9608,4.4281
+234,St. Pölten,St. Pölten (Stadt),52,30201,58856,0.8835,21.4342
+235,St. Valentin,Amstetten,2,30531,9327,0.2144,2.0709
+236,St. Veit,Lilienfeld,1,31412,3840,0.2604,1.6137
+237,Steyr,Steyr (Stadt),6,40201,38034,0.1578,3.0766
+238,Stiefern,Krems-Land,1,31355,1857,0.5385,2.3206
+239,Stockerau,Korneuburg,1,31230,16999,0.0588,0.767
+240,Stotzing,Eisenstadt-Umgebung,2,10321,832,2.4038,6.9338
+241,Straß im Straßertale,Krems-Land,2,31346,1784,1.1211,4.7351
+242,Tattendorf,Baden,1,30636,1435,0.6969,2.6398
+243,Teesdorf,Baden,1,30637,1891,0.5288,2.2996
+244,Ternitz,Neunkirchen,1,31839,14753,0.0678,0.8233
+245,Thalheim,St. Pölten-Land,1,41823,5548,0.1802,1.3426
+246,Thörl,Bruck-Mürzzuschlag,2,62147,2169,0.9221,4.2944
+247,Traiskirchen,Baden,1,30639,19209,0.0521,0.7215
+248,Traismauer,St. Pölten-Land,1,31943,6517,0.1534,1.2387
+249,Trasdorf,Tulln,1,32104,3465,0.2886,1.6988
+250,Tresdorf,Korneuburg,1,31216,5253,0.1904,1.3797
+251,Tulln an der Donau,Tulln,18,32135,16949,1.062,13.8261
+252,Tullnerbach,St. Pölten-Land,3,31953,2951,1.0166,5.5225
+253,Tullnerfeld,Tulln,9,32112,2386,3.772,18.425
+254,Türnitz,Lilienfeld,1,31414,1879,0.5322,2.3069
+255,Unken,Zell am See,1,50623,2027,0.4933,2.2211
+256,Untergrafendorf,St. Pölten-Land,4,31903,5243,0.7629,5.5242
+257,Untermallebarn,Korneuburg,1,31226,3954,0.2529,1.5903
+258,Unterschützen,Oberwart,1,10916,2487,0.4021,2.0052
+259,Vestenötting,Waidhofen an der Thaya,1,32220,5206,0.1921,1.386
+260,Vitis,Waidhofen an der Thaya,2,32219,2692,0.7429,3.8547
+261,Vöcklabruck,Vöcklabruck,1,41746,12803,0.0781,0.8838
+262,Waidhofen an der Thaya,Waidhofen an der Thaya,3,32220,5206,0.5763,4.1579
+263,Waidhofen an der Thaya-Land,Waidhofen an der Thaya,1,32221,1292,0.774,2.7821
+264,Wallern an der Trattnach,Grieskirchen,1,40832,3123,0.3202,1.7894
+265,Wallsee-Sindelburg,Amstetten,1,30538,2213,0.4519,2.1257
+266,Wartberg an der Krems,Kirchdorf,1,40922,2950,0.339,1.8411
+267,Wegscheid am Kamp,Krems-Land,1,32520,898,1.1136,3.337
+268,Weidling,Tulln,1,32144,28115,0.0356,0.5964
+269,Weißbach bei Lofer,Zell am See,1,50627,417,2.3981,4.897
+270,Weißenkirchen an der Perschling,St. Pölten-Land,1,31946,1552,0.6443,2.5384
+271,Weißenkirchen in der Wachau,Krems-Land,1,31351,1379,0.7252,2.6929
+272,Wels,Wels (Stadt),4,40301,65287,0.0613,1.5655
+273,Weyer,Steyr-Land,2,41522,4028,0.4965,3.1513
+274,Wieden,Wien,1,90401,33155,0.0302,0.5492
+275,Wiesfleck,Oberwart,2,10927,1207,1.657,5.7567
+276,Wilhelmsburg,St. Pölten-Land,2,31947,6489,0.3082,2.4828
+277,Wimpassing,Eisenstadt-Umgebung,3,10318,1741,1.7231,7.1899
+278,Windigsteig,Waidhofen an der Thaya,1,32223,948,1.0549,3.2478
+279,Wolfsgraben,St. Pölten-Land,2,31954,1774,1.1274,4.7485
+280,Währing,Wien,2,91801,51395,0.0389,0.8822
+281,Würmla,Tulln,10,32139,1620,6.1728,24.8452
+282,Ybbs,Melk,1,31549,5644,0.1772,1.3311
+283,Zelking-Matzleinsdorf,Melk,3,31550,1200,2.5,8.6603
+284,Zellerndorf,Hollabrunn,1,31052,2408,0.4153,2.0378
+285,Zurndorf,Neusiedl am See,2,10724,2278,0.878,4.1904
+286,Zwentendorf an der Donau,Tulln,2,32141,4195,0.4768,3.0879
+287,Zwettl,Zwettl,5,32530,10766,0.4644,4.8188
+288,Zwölfaxing,Bruck an der Leitha,1,30741,1679,0.5956,2.4405
+289,Zöbing,Krems-Land,2,31322,7490,0.267,2.3109
