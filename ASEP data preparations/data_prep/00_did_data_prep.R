@@ -12,6 +12,11 @@ library(dplyr)
 library(ggplot2)
 library(tidyr)
 library(nnet)
+#install.packages("plm", dependencies = TRUE, repos = "https://cloud.r-project.org")
+library(plm)
+library(fixest)
+library(bife) # Note: bife is optimized for binary models
+
 
 # setwd
 setwd("/data/home/kburt/asep_ihs/Katharina/thesis/data")
@@ -55,10 +60,6 @@ asep_total[["did"]] <- asep_total[["year"]] * asep_total[["treated"]]
 #::::::::::::::::::::::::::::::::::::::::::::::::#
 
 #### plm model #####
-#install.packages("plm")
-install.packages("plm", dependencies = TRUE, repos = "https://cloud.r-project.org")
-library(plm)
-
 #plm(wor_clima ~ treated + year +  did + sex_rec + age, index = "fid", model = "within", data = asep_total)
 
 asep_total[["wor_clima_rec"]] <- as.numeric(as.character(asep_total[["wor_clima"]]))
@@ -75,21 +76,14 @@ plm(wor_clima_rec ~ treated + year + did + sex_rec, data = asep_total)
 FE_model <- plm(wor_clima_rec ~ treated:year, data = asep_total, index=c("fid", "year"), model="within")
 summary(FE_model)
 
-library(fixest)
 # 'fct' represents your fixed effects after the pipe |
 FE_model <- feols(wor_clima_rec ~ did | fid + year, data = asep_total)
 # View results with clustered standard errors by individual
 summary(FE_model, cluster = ~fid)
 
-install.packages("modelsummary", dependencies = TRUE, repos = "https://cloud.r-project.org")
-library(bife)
-
-# Note: bife is optimized for binary, but can handle fixed effects rigorously
 asep_total[["wor_clima_rec2"]] <- ifelse(asep_total$wor_clima_rec == 1, 0, 1)
 fe_logit <- bife(wor_clima_rec2 ~ did + year | fid, data = asep_total, model = "logit")
 summary(fe_logit)
 
-
-library(bife)
 modelsummary(fe_logit, )
 modelsummary(fe_logit, fmt = fmt_significant(3))
