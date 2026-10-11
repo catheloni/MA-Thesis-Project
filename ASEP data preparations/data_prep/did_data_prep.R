@@ -1,4 +1,9 @@
+#::::::::::::::::::::::::::::::::::::::::::::::::#
 ###### DID DATA PREP #######
+# This file prepares ASEP data so that it can be further used for running the models
+# Note: this script also already runs a few models (couldn't hold myself back), but those will not be futher used.
+# April - Mai 2025
+#::::::::::::::::::::::::::::::::::::::::::::::::#
 
 # SETUP ####
 
@@ -16,7 +21,9 @@ asep_2024 <- readRDS("asep_std_2024.rds")
 flood_count <- read.csv("03_flood_count_weighted.csv")
 
 
-# two-way FE requires the dataframe to be LONG
+# NOTE: two-way FE requires the dataframe to be LONG
+
+#::::::::::::::::::::::::::::::::::::::::::::::::#
 
 # define "treated" variable ####
 
@@ -33,7 +40,9 @@ asep_total <- left_join(asep_2024, asep_2023[,c("fid", "wor_clima")], by = "fid"
 # delete rows with missings
 asep_total <- asep_total %>%
   dplyr::filter(as.numeric(as.character(wor_clima.x))>0 & as.numeric(as.character(wor_clima.y))>0)
-  
+
+
+#::::::::::::::::::::::::::::::::::::::::::::::::#
 
 #### pivot longer ####
 asep_total <- pivot_longer(asep_total, c("wor_clima.x", "wor_clima.y"), names_to = "year", values_to = "wor_clima")
@@ -42,6 +51,8 @@ asep_total[["year"]] <- ifelse(asep_total[["year"]] == "wor_clima.x", 0, 1)
 
 asep_total[["did"]] <- asep_total[["year"]] * asep_total[["treated"]]
 
+
+#::::::::::::::::::::::::::::::::::::::::::::::::#
 
 #### plm model #####
 #install.packages("plm")
@@ -56,6 +67,9 @@ plm(wor_clima_rec ~ treated + year + did + sex_rec, data = asep_total)
 # Source - https://stackoverflow.com/q/61399938
 # Posted by Anna Bokun, modified by community. See post 'Timeline' for change history
 # Retrieved 2026-04-20, License - CC BY-SA 4.0
+
+
+#::::::::::::::::::::::::::::::::::::::::::::::::#
 
 ## 2.) FE Model      
 FE_model <- plm(wor_clima_rec ~ treated:year, data = asep_total, index=c("fid", "year"), model="within")
