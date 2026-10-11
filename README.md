@@ -6,8 +6,8 @@ The thesis was submitted in June 2026 as the final prerequisites for completion 
 The project analyzes the impact of the flooding event in September 2024 on climate change worries in Austria. I utilize data from pilot wave 1 (2023) and 2 (2024) from the Austrian Socio-Economic Panel (ASEP), which is not uploaded in this repo due to privacy concerns but can be downloaded free of charge from [AUSSDA](https://aussda.at).
 
 *Please note:* Unfortunately, the project is not reproducible from the code available on this public repo. This is due to two reasons: 
-* I had access to additional data that is not publicly available: The municipality code of all ASEP respondents made it possible to identify whether they were likely affected by flooding in their town. Furthermore, data provided by the Lower Austria State Government Office for Fire Departments and Civil Defense kindly supported me with some of their internal flood disaster data.
-* Furthermore, all the code in the repo folder "ASEP data preparations" was written on an R browser on an external device with limited options for data transfer. This unfortunately means that not all data was transferred correctly. 
+* I had access to additional data that is not publicly available: The municipality code of all ASEP respondents made it possible to identify whether they were likely affected by flooding in their town. Furthermore, the Lower Austria State Government Office for Fire Departments and Civil Defense kindly supported me with some of their internal flood disaster data.
+* Furthermore, all the code in the repo folder "ASEP data preparations" was written in an R browser on an external device with limited options for data transfer. This unfortunately means that not all scripts were transferred completely. 
 
 
 ### Folder Structure
